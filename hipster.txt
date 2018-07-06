@@ -1,3 +1,7 @@
 hipster text
 
 more text
+
+text again
+
+new text
