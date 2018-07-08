@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## How To Contribute
 
 Change 1
+
+Change 2
+
+Change 3
